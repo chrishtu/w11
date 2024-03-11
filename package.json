@@ -1,0 +1,14 @@
+{
+  "name": "w11",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
